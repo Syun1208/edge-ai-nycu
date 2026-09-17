@@ -1,0 +1,13 @@
+**/*__pycache__/
+**/*data
+**/*.zip
+**/*.env
+**/*.onnx
+**/*.pt
+**/*.pth
+**/*reports
+**/*.tex
+**/*results
+Lab1/ptxas_info.txt
+Lab1/sgemm
+Lab1/experiments
