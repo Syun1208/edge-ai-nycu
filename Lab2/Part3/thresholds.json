@@ -1,0 +1,63 @@
+{
+  "reference_model": "unsloth/Meta-Llama-3.1-8B",
+  "weights": {
+    "q_proj": [
+      1.84,
+      null
+    ],
+    "k_proj": [
+      1.82,
+      null
+    ],
+    "v_proj": [
+      1.78,
+      null
+    ],
+    "o_proj": [
+      1.74,
+      null
+    ],
+    "gate_proj": [
+      1.8,
+      null
+    ],
+    "up_proj": [
+      1.74,
+      null
+    ],
+    "down_proj": [
+      1.74,
+      null
+    ]
+  },
+  "activations": {
+    "q_proj": [
+      2.18,
+      null
+    ],
+    "k_proj": [
+      2.06,
+      null
+    ],
+    "v_proj": [
+      2.26,
+      null
+    ],
+    "o_proj": [
+      2.28,
+      null
+    ],
+    "gate_proj": [
+      1.8,
+      null
+    ],
+    "up_proj": [
+      1.8,
+      null
+    ],
+    "down_proj": [
+      2.54,
+      null
+    ]
+  }
+}
